@@ -19,3 +19,4 @@ a=$((b*c))
 
 echo "Multiplication of two number is:$a"
 
+# I check only code correct or not 
