@@ -19,9 +19,7 @@ a=$((b*c))
 
 echo "Multiplication of two number is:$a"
 
-<<<<<<< HEAD
-# I check only code correct or not 
-=======
 
 #Divison
->>>>>>> mergeEample
+
+#percentage
