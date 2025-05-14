@@ -19,3 +19,5 @@ a=$((b*c))
 
 echo "Multiplication of two number is:$a"
 
+
+#Divison
