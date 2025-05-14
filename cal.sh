@@ -13,3 +13,9 @@ a=$((b-c))
 echo "Substraction of two number is: $a"
 
 
+#multiplication 
+
+a=$((b*c))
+
+echo "Multiplication of two number is:$a"
+
